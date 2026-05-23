@@ -137,3 +137,5 @@ https://routerostop.oss-cn-shanghai.aliyuncs.com/plugins/release/ipk/plugin-solo
 https://routerostop.oss-cn-shanghai.aliyuncs.com/plugins/release/ipk/plugin-soloip-x86-v6.1.3-Build202605192207.ipk
 https://routerostop.oss-cn-shanghai.aliyuncs.com/plugins/release/ipk/plugin-soloip-mt798x-v6.1.4-Build202605210111.ipk
 https://routerostop.oss-cn-shanghai.aliyuncs.com/plugins/release/ipk/plugin-soloip-x86-v6.1.4-Build202605210111.ipk
+https://routerostop.oss-cn-shanghai.aliyuncs.com/plugins/release/ipk/plugin-soloip-mt798x-v6.1.5-Build202605231730.ipk
+https://routerostop.oss-cn-shanghai.aliyuncs.com/plugins/release/ipk/plugin-soloip-x86-v6.1.5-Build202605231730.ipk
